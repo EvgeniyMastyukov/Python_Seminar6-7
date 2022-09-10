@@ -1,50 +1,23 @@
 
-Иванов
-Иван
-+79880123456
-домашний
+Zaplatin
+Mihail
++79883984984
+teacher
 
-Иванов
-Иван
-+79620123457
-рабочий
+Ivanon
+Ivan
++796288387779
+friend
 
-Петров
-Петров
-+79615040200
-водитель
+Petrov
+Petr
++79612873846
+house
 
-Жуков
-Александр
-+79610000022
-бухгалтер, рабочий
+Jukov
+Alexandr
++797867574533
+bank
 
-Пушкин
-Алекксандр
-+79630000008
-мастер
-<function get_first_name at 0x000001CD8AF8B250>
-<function get_last_name at 0x000001CD8AF8B2E0>
-<function get_tel at 0x000001CD8AF8B370>
-<function get_description at 0x000001CD8AF8B400>
 
-<function get_first_name at 0x00000203328DB250>
-<function get_last_name at 0x00000203328DB2E0>
-<function get_tel at 0x00000203328DB370>
-<function get_description at 0x00000203328DB400>
-
-<function get_first_name at 0x0000020D5605B370>
-<function get_last_name at 0x0000020D5605B400>
-<function get_tel at 0x0000020D5605B490>
-<function get_description at 0x0000020D5605B520>
-
-<function get_first_name at 0x000001A31F2CB250>
-<function get_last_name at 0x000001A31F2CB2E0>
-<function get_tel at 0x000001A31F2CB370>
-<function get_description at 0x000001A31F2CB400>
-
-<function get_first_name at 0x00000234D9DAB2E0>
-<function get_last_name at 0x00000234D9DAB370>
-<function get_tel at 0x00000234D9DAB400>
-<function get_description at 0x00000234D9DAB490>
 

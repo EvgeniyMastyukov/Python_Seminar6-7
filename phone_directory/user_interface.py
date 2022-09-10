@@ -2,6 +2,9 @@
 def get_process():
     return int(input('Экспорт - это 1, импорт - это 2, сделайте выбор: '))
 
+def get_structure():
+    return int(input('Выберите формат: по-строчно - 1; через "," - 2 '))
+
 
 def get_first_name():
     return input('Фамилия:')
